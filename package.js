@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Juniper.js allows you to use Parsley.js validation with X-editable forms."
+  summary: "Meteor package for Juniper.js. Juniper.js allows you to use Parsley.js validation with X-editable forms."
 });
 
 Package.on_use(function (api) {
